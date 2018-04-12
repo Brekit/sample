@@ -22,7 +22,6 @@ void Date::set(int x, int y, int z) {
   day = x;
   month = y;
   year = z;
-
 }
 
 int main() {
